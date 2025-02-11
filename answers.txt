@@ -4,3 +4,10 @@ Answer: We might consider using Git because it is a Version Control System that 
 For example, Git allows you to track changes to code over time, which makes it easy to look at progress and go back to previous versions if needed. 
 In addition, Git makes it easy for multiple people to work on the same project without overwriting each other’s work, which could facilitate group work 
 for the group final project. Finally, Git integrates with GitHub, which makes it easier to share coding projects online.
+
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: One example of a field that data science could be applied to is healthcare, especially in early disease detection. For example, data science
+could be used to develop AI models that analyze medical image data (X-rays, MRIs, CT scans, etc.) to detect diseases like cancer at an early stage.
