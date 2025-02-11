@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git because it is a Version Control System that can help us manage code for data science projects in various ways. 
+For example, Git allows you to track changes to code over time, which makes it easy to look at progress and go back to previous versions if needed. 
+In addition, Git makes it easy for multiple people to work on the same project without overwriting each other’s work, which could facilitate group work 
+for the group final project. Finally, Git integrates with GitHub, which makes it easier to share coding projects online.
